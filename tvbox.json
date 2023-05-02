@@ -1,0 +1,12 @@
+{"sites":[
+{"key":"明帝","name":"️⚪️明帝","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","categories":["连续剧","电影","综艺","动漫","直播"]},
+{"key":"忆梦","name":"️Ⓜ️忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"https://jx.jsonplayer.com/player/?url="},
+{"key":"红牛","name":"️Ⓜ️红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8","playUrl":"https://jx.jsonplayer.com/player/?url="},
+{"key":"天空","name":"️Ⓜ️天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8","playUrl":"https://jx.jsonplayer.com/player/?url="},
+{"key":"量子","name":"️🔘量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"https://lziplayer.com/?url=","m3u8ads":"hd.youyhn.com"},
+{"key":"非凡","name":"️🔴非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"https://ffzyplayer.com/?url=","m3u8ads":"hd.youyhn.com"}
+],
+"lives":[{"group":"live","channels":[{"name":"live","urls":["http://home.jundie.top:81/Cat/tv/live.txt"]}]}],
+"parses":[{"name":"左岸","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"flag":["qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","mgtv","芒果","imgo","芒果TV","芒 果 T V","youku","优酷","优 酷","优酷视频","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","bilibili","哔 哩","哔 哩 哔 哩"]}}],
+"flags":["qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","mgtv","芒果","imgo","芒果TV","芒 果 T V","youku","优酷","优 酷","优酷视频","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","bilibili","哔 哩","哔 哩 哔 哩"]
+}
