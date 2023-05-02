@@ -1,8 +1,10 @@
 {"sites":[
 {"key":"明帝","name":"️⚪️明帝","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","categories":["连续剧","电影","综艺","动漫","直播"]},
-{"key":"忆梦","name":"️Ⓜ️忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"https://jx.jsonplayer.com/player/?url="},
-{"key":"红牛","name":"️Ⓜ️红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8","playUrl":"https://jx.jsonplayer.com/player/?url="},
-{"key":"天空","name":"️Ⓜ️天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8","playUrl":"https://jx.jsonplayer.com/player/?url="},
+{"key":"忆梦","name":"️Ⓜ️忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","playUrl":"https://b.yjys.me/player/ec.php?code=qw&url="},
+{"key":"红牛","name":"️Ⓜ️红牛","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8","playUrl":"https://b.yjys.me/player/ec.php?code=qw&url="},
+{"key":"天空","name":"️Ⓜ️天空","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8","playUrl":"https://b.yjys.me/player/ec.php?code=qw&url="},
+{"key":"新浪","name":"️Ⓜ️新浪","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8","playUrl":"https://b.yjys.me/player/ec.php?code=qw&url="},
+{"key":"闪电","name":"️Ⓜ️闪电","type":1,"api":"https://sdzyapi.com/api.php/provide/vod","playUrl":"https://b.yjys.me/player/ec.php?code=qw&url="},
 {"key":"量子","name":"️🔘量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playUrl":"https://lziplayer.com/?url=","m3u8ads":"hd.youyhn.com"},
 {"key":"非凡","name":"️🔴非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"https://ffzyplayer.com/?url=","m3u8ads":"hd.youyhn.com"}
 ],
