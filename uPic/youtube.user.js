@@ -5,13 +5,14 @@
 // @description Automatically set youtube video quality according to your preference
 // @author zacyu
 // @match https://www.youtube.com/*
+// @match https://m.youtube.com/*
 // @grant none
 // ==/UserScript==
 (function() {
     'use strict';
     // Your preferred quality, can be one of the following:
     // 'highres', 'hd2880', 'hd2160', 'hd1440', 'hd1080', 'hd720', 'large', 'medium', 'small'
-    var quality = 'hd720';
+    var quality = 'hd1080';
     // The interval to check and set the quality, in milliseconds
     var interval = 1000;
     // The function to set the quality
